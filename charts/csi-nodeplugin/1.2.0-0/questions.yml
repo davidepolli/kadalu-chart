@@ -1,0 +1,9 @@
+categories:
+- Storage
+questions:
+- variable: operator.enabled
+  default: "false"
+  description: "Enable operator"
+  type: boolean
+  required: true
+  label: Kadalu Operator Enabled

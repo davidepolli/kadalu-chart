@@ -1,0 +1,36 @@
+apiVersion: v1
+entries:
+  common:
+  - apiVersion: v2
+    created: "2024-04-23T17:09:19.0817749+02:00"
+    description: kdalu.io Common Chart
+    digest: 75bd74043150613639dcbc7052ba4ffc08052b916d076e430c4084999648b007
+    icon: https://kadalu.io/static/css/logo.png
+    name: common
+    type: library
+    urls:
+    - common-0.0.0-0.tgz
+    version: 0.0.0-0
+  csi-nodeplugin:
+  - apiVersion: v2
+    created: "2024-04-23T17:09:19.0817749+02:00"
+    description: kadalu.io CSI Nodeplugin
+    digest: a019971bf2f760e04e6aad74e08dc6414f1de715073fd8155c3b41e834a14f0e
+    icon: https://kadalu.io/static/css/logo.png
+    name: csi-nodeplugin
+    type: application
+    urls:
+    - csi-nodeplugin-0.0.0-0.tgz
+    version: 0.0.0-0
+  operator:
+  - apiVersion: v2
+    created: "2024-04-23T17:09:19.0817749+02:00"
+    description: kadalu.io Storage Operator and CSI for k8s (with glusterfs)
+    digest: c27341541ca963209354303f4200f799e810021fac9a02559c6f979d98542141
+    icon: https://kadalu.io/static/css/logo.png
+    name: operator
+    type: application
+    urls:
+    - operator-0.0.0-0.tgz
+    version: 0.0.0-0
+generated: "2024-04-23T17:09:19.0808014+02:00"
